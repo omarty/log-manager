@@ -1,0 +1,27 @@
+{
+  "name": "@omarty/log-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarty/log-manager.git"
+  },
+  "keywords": [
+    "log-manager",
+    "omarty"
+  ],
+  "author": "omarty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omarty/log-manager/issues"
+  },
+  "homepage": "https://github.com/omarty/log-manager#readme",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "winston": "^3.3.3"
+  }
+}
